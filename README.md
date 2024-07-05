@@ -14,7 +14,7 @@ Tralive is a fully responsive traveling agency website designed to look great on
 
 ## Demo
 
-Check out the live demo of the Tralive website: [Here](https://syedzafaryabhaider.github.io/Tralive/)
+Check out the live demo of the Tralive website: [Here](https://tralive-self.vercel.app/)
 
 ## Features
 
